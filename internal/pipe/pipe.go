@@ -8,6 +8,8 @@ import (
 	"time"
 )
 
+//New line 1
+
 type LockablePipe struct {
 	input    io.Reader
 	received []byte
