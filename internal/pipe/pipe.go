@@ -9,7 +9,7 @@ import (
 )
 
 //New line 1. I hate dust. So stupid.
-//New line 2. Bleeeeh.
+//New line 2. Bleeeeh. Xdddd.
 type LockablePipe struct {
 	input    io.Reader
 	received []byte
