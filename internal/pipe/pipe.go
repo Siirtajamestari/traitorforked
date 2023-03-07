@@ -8,7 +8,7 @@ import (
 	"time"
 )
 
-//This is the second branch. Added new line. I hate when it itches.
+//This is the second branch. Added new line. I hate when it itches. Sure does look like im doing something useful.
 
 type LockablePipe struct {
 	input    io.Reader
