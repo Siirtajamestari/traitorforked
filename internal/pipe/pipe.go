@@ -9,6 +9,7 @@ import (
 )
 
 //This is the second branch. Added new line. I hate when it itches. Sure does look like im doing something useful.
+//New line 1. I hate dust. So stupid.
 
 type LockablePipe struct {
 	input    io.Reader
