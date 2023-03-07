@@ -8,7 +8,7 @@ import (
 	"time"
 )
 
-//New line 1
+//New line 1. I hate dust.
 
 type LockablePipe struct {
 	input    io.Reader
