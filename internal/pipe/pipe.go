@@ -8,6 +8,8 @@ import (
 	"time"
 )
 
+//This is the second branch. Added new line.
+
 type LockablePipe struct {
 	input    io.Reader
 	received []byte
